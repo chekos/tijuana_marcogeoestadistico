@@ -1,0 +1,18 @@
+Nombre,capa
+02ent,Áreas geoestadísticas estatales
+02mun,Áreas geoestadísticas municipales
+02ar,Áreas geoestadísticas básicas rurales
+02l,Polígono de localidades urbanas y rurales amanzanadas
+02lpr,Localidades puntuales rurales
+02ti,Territorio insular
+02a,Áreas geoestadísticas básicas urbanas
+02m,Polígonos de manzana
+02fm,Frentes de manzana
+02e,Ejes de vialidad
+02cd,Caserío disperso
+02sia,"Servicios e información complementaria de Tipo área (áreas verdes, camellones, glorietas)"
+02sil,"Servicios e información complementaria de Tipo línea (ríos, ferrocarriles, corrientes de agua)"
+02sip,"Servicios e información complementaria de Tipo puntual (palacios municipales o ayudantías, parques o jardines)"
+02pe,Polígono externo
+02pem,Polígono externo de manzana
+02ue,Unidades económicas
